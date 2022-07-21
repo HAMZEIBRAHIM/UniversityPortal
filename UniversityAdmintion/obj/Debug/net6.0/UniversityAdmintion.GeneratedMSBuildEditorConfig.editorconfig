@@ -1,0 +1,72 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = UniversityAdmintion
+build_property.RootNamespace = UniversityAdmintion
+build_property.ProjectDir = C:\Users\xamze\source\repos\UniversityAdmintion\UniversityAdmintion\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\xamze\source\repos\UniversityAdmintion\UniversityAdmintion
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Account/Forgot.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxGb3Jnb3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Account/singin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxzaW5naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Aplicaion/App.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhaW9uXEFwcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Aplicaion/process.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBsaWNhaW9uXHByb2Nlc3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Dashboard/Dash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Registration/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0cmF0aW9uXFJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/UsersController1/User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNDb250cm9sbGVyMVxVc2VyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-c6ecrrb6eo
+
+[C:/Users/xamze/source/repos/UniversityAdmintion/UniversityAdmintion/Views/Shared/_Layout2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-8nrkf9gevp
